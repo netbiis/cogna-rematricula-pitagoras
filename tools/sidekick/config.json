@@ -2,5 +2,5 @@
   "project": "Rematrícula Antecipada | Pitagoras",
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-  "host": "https://rematricula.pitagoras.com.br"
+  "host": "rematricula.pitagoras.com.br"
 }
